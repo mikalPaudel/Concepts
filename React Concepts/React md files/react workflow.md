@@ -1,5 +1,3 @@
-[How React Works](how-react-works)
-
 # React
 
 React is a **JavaScript Library** *(Not a framework)* known for front-end development (or user interface). It is popular due to its **component-based architecture, Single Page Applications (SPAs) and Virtual DOM** for building web applications that are fast, efficient, and scalable.
