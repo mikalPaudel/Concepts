@@ -1,6 +1,14 @@
+# React
+
+React is a **JavaScript Library** *(Not a framework)* known for front-end development (or user interface). It is popular due to its **component-based architecture, Single Page Applications (SPAs) and Virtual DOM** for building web applications that are fast, efficient, and scalable.
+
+
 # How React Works
 
 React operates by creating an in-memory **Virtual DOM** rather than directly manipulating the browser’s **Real DOM**. This approach improves performance by reducing unnecessary DOM updates.
+
+![image](https://github.com/user-attachments/assets/b36b0157-f66a-4b6e-b43c-fcd93adfd3e3)
+
 
 ## React Workflow
 
